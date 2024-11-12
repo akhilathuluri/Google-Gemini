@@ -1,6 +1,8 @@
 # Google-Gemini
 This repository contains two Streamlit applications that leverage the Google Generative AI (Gemini) models for natural language processing and image generation.
 
+![google-gemini](https://github.com/user-attachments/assets/112448d8-f138-4eef-bb30-d4d35c4a143a)
+
 ## Table of Contents
 - [Prerequisites](#prerequisites)
 - [File-Structure](#File-Structure)
